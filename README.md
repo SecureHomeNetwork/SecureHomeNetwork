@@ -1,3 +1,5 @@
+![model](https://github.com/SecureHomeNetwork/SecureHomeNetwork/blob/main/SHNFlogo.png)
+
 This is the home of Secure Home Networking Framework (SHNF) and Secure Home Netorking Maturity Model (SHNMM)
 Here you will find 2 resources: 
 
